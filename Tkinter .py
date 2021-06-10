@@ -63,7 +63,7 @@ Gender.current(0)
 
 
 def show():
-        mg.askquestion("OHH","DO YOU WANT TO SUBMITED")
+        mg.askquestion("caution","DO YOU WANT TO SUBMITED")
         check.get()
         stu.get()
         Gen.get()
